@@ -1,0 +1,58 @@
+        
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+THE INTERNATIONAL PHONETIC ALPHABET 
+                                (revised to 2015)
+
+CONSONANTS (PULMONIC)                (c) 2015 IPa
+
+     bil lab den alv pos ret pal vel uvu pha glo
+Plo |p b|   |    t d    |ʈ ɖ|c ɟ|k ɡ|q ɢ|  ░|ʔ ░|
+Nas |  m| ɱ |      n    |  ɳ|  ɲ|  ŋ|  ɴ|░░░|░░░|
+Tri |  ʙ|   |      r    |   |   |░░░|  ʀ|   |░░░|
+Tap |   |  ⱱ|      ɾ    |  ɽ|   |░░░|   |   |░░░|
+Fri |ɸ β|f v|θ ð|s z|ʃ ʒ|ʂ ʐ|ç ʝ|x ɣ|χ ʁ|ħ ʕ|h ɦ|
+Lat |░░░|░░░|    ɬ ɮ    |   |   |   |   |░░░|░░░|
+App |   |   |  ʋ   ɹ   ɻ|  j|  ɰ|   |   |   |░░░|
+Lap |░░░|░░░|      l    |  ɭ|  ʎ|  ʟ|   |░░░|░░░|
+
+Symbols to the right in a cell are voiced, 
+to the left are voiceless. Shaded areas denote 
+articulations judged impossible.
+
+CONSONANTS (NON-PULMONIC)                      VOWELS                           
+    Clicks      Voi. Impl.     Ejectives   |                                    
+| ʘ Bilabial  | ɓ Bilabial | ’  Examples   |          Front  Centr     Back     
+| ǀ Dental    | ɗ Dent/Alv | p’ Bilabial   |   Close  i•y --- ɨ•ʉ --- ɯ •u      
+| ǃ Pos. alv  | ʄ Palatal  | t’ Dent/Alv.  |            \ ɪ ʏ   \  ʊ    |       
+| ǂ Pal. alv  | ɠ Velar    | k’ Velar      |   Clmid    e•ø --- ɘ•ɵ -- ɤ•o      
+| ǁ Alv. lat  | ʛ Uvular   | s’ Alv. Fric. |              \      ə      |       
+                                               Opmid      ɛ•œ -- ɜ•ɞ - ʌ•ɔ      
+                                                            æ      ɐ    |       
+                                               Open          a•ɶ ----- ɑ•ɒ      
+
+                                               Where symbos appear in pairs, 
+                                               the one to the right represents 
+                                               a rounded vowel.
+
+----------------------------------------------------------------------------->80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
