@@ -1,5 +1,6 @@
-                   THE INTERNATIONAL PHONETIC ALPHABET (revised to 2015)
 ---------x---------x---------x---------X---------x---------x---------x------->80
+
+                   THE INTERNATIONAL PHONETIC ALPHABET (revised to 2015)
 CONSONANTS (PULMONIC)                                              (c) 2015 IPa
 
            bil   lab   den   alv   pos   ret   pal   vel   uvu   pha   glo 
@@ -15,54 +16,40 @@ Lat. app | ░░░ | ░░░ |         l       |   ɭ |   ʎ |   ʟ |     | 
 Symbols to the right in a cell are voiced, to the left are voiceless. Shaded
 areas denote articulations judged impossible.
 
-CONSONANTS (NON-PULMONIC)                      VOWELS                           
+CONSONANTS (NON-PULMONIC)                       VOWELS                           
                                                                                 
-    Clicks      Voi. Impl.     Ejectives   |          Front  Centr     Back     
-| ʘ Bilabial  | ɓ Bilabial | ’  Examples   |   Close  i•y --- ɨ•ʉ --- ɯ •u      
-| ǀ Dental    | ɗ Dent/Alv | p’ Bilabial   |            \ ɪ ʏ   \  ʊ    |       
-| ǃ Pos. alv  | ʄ Palatal  | t’ Dent/Alv.  |   Clmid    e•ø --- ɘ•ɵ -- ɤ•o      
-| ǂ Pal. alv  | ɠ Velar    | k’ Velar      |              \      ə      |       
-| ǁ Alv. lat  | ʛ Uvular   | s’ Alv. Fric. |   Opmid      ɛ•œ -- ɜ•ɞ - ʌ•ɔ      
-                                           |                æ      ɐ    |       
-OTHER SYMBOLS                              |   Open          a•ɶ ----- ɑ•ɒ      
-                                           |
-ʍ -voi lbvel fr    ɕ ʑ Alv.Pal.Fric        |                                    
-w voi labvel app   ɺ Voi. alv.lat.flap     |   Where symbols appear in pairs,    
-ɥ voi labpal app   ɧ simultaneous x & ʃ    |   the one to the right represents  
-ʜ -voi epigl fr    Affricates and double   |   a rounded vowel.                 
-ʢ voi epigl fr     articulations with a    |                                    
-ʡ epiglotal plos   tie bar. t͜s kp͡         |   SUPRASEGMENTALS                                 
-                                           |                                                     
-DIACRITICS                                 |   X Prim stress | X Sec  stress
-                                           |   X Long        | X Half-Long                         
-Some diacritics may be placed above a      |   X Extra-short                                                            
-symbol with a descender, e.g. X            |   X Minor        | X Major                                              
-                                           |   X Syllable break
-| ̥ voile n̥ d̥ | X Breath x x | x Dent  x x |   X Linking                           
-| X voicd x x | X Creaky x x | x Apica x x |   
-| X aspir x x | X linglb x x | x Lamin x x |   
-| X +roun x x | X labial x x | x Nasal x x |   TONES & WORD ACCENTS               
-| X -roun x x | X palat  x x | x Nasre x x |                  
-| X adv   x x | X velar  x x | x Latre x x |   X ~ X +Hi      X ~ X Rising
-| X retra x x | X phary  x x | x NoARe x x |   X ~ X High      X ~ X Falling            
-| X centr x x | X vel/ph x x               |   X ~ X Mid      X ~ X High-Rising             
-| X mid-c x x | X raisd  x x               |   X ~ X Low      X ~ X Low-Rising                             
-| X syll  x x | X lower  x x               |   X ~ X +low      X ~ X Rising-Fall.                            
-| X non-s x x | X ATR    x x               |   X Downstep    X Global rise                           
-| X Rhot  x x | X RTR    x x               |   X Upstep      X Global Fall
+    Clicks      Voi. Impl.     Ejectives               Front  Centr     Back     
+| ʘ Bilabial  | ɓ Bilabial | ’  Examples        Close  i•y --- ɨ•ʉ --- ɯ •u      
+| ǀ Dental    | ɗ Dent/Alv | p’ Bilabial                 \ ɪ ʏ   \  ʊ    |       
+| ǃ Pos. alv  | ʄ Palatal  | t’ Dent/Alv.       Clmid    e•ø --- ɘ•ɵ -- ɤ•o      
+| ǂ Pal. alv  | ɠ Velar    | k’ Velar                      \      ə      |       
+| ǁ Alv. lat  | ʛ Uvular   | s’ Alv. Fric.      Opmid      ɛ•œ -- ɜ•ɞ - ʌ•ɔ      
+                                                             æ      ɐ    |       
+OTHER SYMBOLS                                   Open          a•ɶ ----- ɑ•ɒ      
+                                             
+ʍ -voi lbvel fr    ɕ ʑ Alv.Pal.Fric                                              
+w voi labvel app   ɺ Voi. alv.lat.flap          Where symbols appear in pairs,   
+ɥ voi labpal app   ɧ simultaneous x & ʃ         the one to the right represents  
+ʜ -voi epigl fr    Affricates and double        a rounded vowel.                 
+ʢ voi epigl fr     articulations with a                                          
+ʡ epiglotal plos   tie bar. t͜s kp͡              SUPRASEGMENTALS                  
+                                                                                 
+DIACRITICS                                      ˈ Prim stress | ˌ Sec  stress
+                                                ː Long        | ˑ Half-Long      
+Some diacritics may be placed above a          ⠀̆  Extra-short                    
+symbol with a descender, e.g. X                 | Minor        | ‖ Major         
+                                                . Syllable break
+|⠀̥  -voi n̥  |⠀̤  breath b̤  |⠀̪  dental t̪   |       ‿ Linking                      
+|⠀̬  +voi s̬  |⠀̰  creaky b̰  |⠀̺  apical t̺   |                                       
+|⠀ʰ aspr tʰ |⠀̼  linglb t̼  |⠀̻  lamin  t̻   |                                      
+|⠀̹  +rou ɔ̹  |⠀ʷ labial tʷ |⠀̃  nasal  ẽ   |    TONES & WORD ACCENTS             
+|⠀̹  -rou ɔ̨  |⠀ʲ palat  tʲ |⠀ⁿ nasrel dⁿ  |      LEVEL        CONTOUR            
+|⠀̟  adv  u̟  |⠀ˠ velar  tˠ |⠀ˡ latrel dˡ  |    e̋ ~ ˥ +Hi    ě ~ ˩˥ Rising         
+|⠀̠  retr e̠  |⠀ˤ phary  tˤ |⠀̚ -audre d̚  |    é ~ ˦ High   ê ~ X  Falling        
+|⠀̈  cntr ë  |⠀̴ vel/ph l̴                |    ê ~ ˧ Mid    e᷄ ~ ˧˥  High-Rising   
+|⠀̽  md-c e̽  |⠀̝  raisd  e̝ ɻ̝ (voi.alv.fr)  |    ē ~ ˨ Low    e᷅ ~ ˩˧  Low-Rising    
+|⠀̩  syll n̩  |⠀̞  lower  e̞ β̞ (voi.lab.ap)  |    ȅ ~ ˩ +low   e᷈ ~ ˧˦˨ Rising-Fall.  
+|⠀̯  -syl e̽  |⠀̘  ATR    e̘                 |    ꜜ Downstep   ↗ Global rise         
+|⠀. rhot ə˞ |⠀̙  RTR    e̙                 |    ꜛ Upstep     ↘ Global Fall         
+
 ---------x---------x---------x---------X---------x---------x---------x------->80
-                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-
-
-
