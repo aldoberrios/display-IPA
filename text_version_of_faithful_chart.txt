@@ -8,7 +8,7 @@ Plosive  | p b |     |       t d       | ʈ ɖ | c ɟ | k ɡ | q ɢ |   ░ | ʔ
 Nasal    |   m |   ɱ |         n       |   ɳ |   ɲ |   ŋ |   ɴ | ░░░ | ░░░ |
 Trill    |   ʙ |     |         r       |     |     | ░░░ |   ʀ |     | ░░░ |
 Tap/flap |     |   ⱱ |         ɾ       |   ɽ |     | ░░░ |     |     | ░░░ |
-Fricat.  | ɸ β | f v | θ ð | s z | ʃ ʒ | ʂ ʐ | ç ʝ | x ɣ | χ ʁ | ħ ʕ | h ɦ |
+Fricat.  | ɸ β | f v | θ ð | s z | ʃ ʒ | ʂ ʐ | ç ʝ | X ɣ | χ ʁ | ħ ʕ | h ɦ |
 Lateral  | ░░░ | ░░░ |       ɬ ɮ       |     |     |     |     | ░░░ | ░░░ |
 Approx.  |     |     |   ʋ     ɹ     ɻ |   j |   ɰ |     |     |     | ░░░ |
 Lat. app | ░░░ | ░░░ |         l       |   ɭ |   ʎ |   ʟ |     | ░░░ | ░░░ |
@@ -29,7 +29,7 @@ OTHER SYMBOLS                                   Open          a•ɶ ----- ɑ•
                                              
 ʍ -voi lbvel fr    ɕ ʑ Alv.Pal.Fric                                              
 w voi labvel app   ɺ Voi. alv.lat.flap          Where symbols appear in pairs,   
-ɥ voi labpal app   ɧ simultaneous x & ʃ         the one to the right represents  
+ɥ voi labpal app   ɧ simultaneous h & ʃ         the one to the right represents  
 ʜ -voi epigl fr    Affricates and double        a rounded vowel.                 
 ʢ voi epigl fr     articulations with a                                          
 ʡ epiglotal plos   tie bar. t͜s kp͡              SUPRASEGMENTALS                  
@@ -37,7 +37,7 @@ w voi labvel app   ɺ Voi. alv.lat.flap          Where symbols appear in pairs,
 DIACRITICS                                      ˈ Prim stress | ˌ Sec  stress
                                                 ː Long        | ˑ Half-Long      
 Some diacritics may be placed above a          ⠀̆  Extra-short                    
-symbol with a descender, e.g. X                 | Minor        | ‖ Major         
+symbol with a descender, e.g. ŋ̊                 | Minor        | ‖ Major         
                                                 . Syllable break
 |⠀̥  -voi n̥  |⠀̤  breath b̤  |⠀̪  dental t̪   |       ‿ Linking                      
 |⠀̬  +voi s̬  |⠀̰  creaky b̰  |⠀̺  apical t̺   |                                       
@@ -45,7 +45,7 @@ symbol with a descender, e.g. X                 | Minor        | ‖ Major
 |⠀̹  +rou ɔ̹  |⠀ʷ labial tʷ |⠀̃  nasal  ẽ   |    TONES & WORD ACCENTS             
 |⠀̹  -rou ɔ̨  |⠀ʲ palat  tʲ |⠀ⁿ nasrel dⁿ  |      LEVEL        CONTOUR            
 |⠀̟  adv  u̟  |⠀ˠ velar  tˠ |⠀ˡ latrel dˡ  |    e̋ ~ ˥ +Hi    ě ~ ˩˥ Rising         
-|⠀̠  retr e̠  |⠀ˤ phary  tˤ |⠀̚ -audre d̚  |    é ~ ˦ High   ê ~ X  Falling        
+|⠀̠  retr e̠  |⠀ˤ phary  tˤ |⠀̚ -audre d̚  |    é ~ ˦ High   ê ~ ˥˩  Falling        
 |⠀̈  cntr ë  |⠀̴ vel/ph l̴                |    ê ~ ˧ Mid    e᷄ ~ ˧˥  High-Rising   
 |⠀̽  md-c e̽  |⠀̝  raisd  e̝ ɻ̝ (voi.alv.fr)  |    ē ~ ˨ Low    e᷅ ~ ˩˧  Low-Rising    
 |⠀̩  syll n̩  |⠀̞  lower  e̞ β̞ (voi.lab.ap)  |    ȅ ~ ˩ +low   e᷈ ~ ˧˦˨ Rising-Fall.  
