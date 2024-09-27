@@ -1,7 +1,5 @@
----------x---------x---------x---------X---------x---------x---------x------->80
-
-                   THE INTERNATIONAL PHONETIC ALPHABET (revised to 2015)
-CONSONANTS (PULMONIC)                                              (c) 2015 IPa
+              THE INTERNATIONAL PHONETIC ALPHABET (revised to 2015)
+CONSONANTS (PULMONIC)                                              (c) 2015 IPA
 
            bil   lab   den   alv   pos   ret   pal   vel   uvu   pha   glo 
 Plosive  | p b |     |       t d       | ʈ ɖ | c ɟ | k ɡ | q ɢ |   ░ | ʔ ░ |
@@ -27,7 +25,7 @@ CONSONANTS (NON-PULMONIC)                       VOWELS
                                                              æ      ɐ    |       
 OTHER SYMBOLS                                   Open          a•ɶ ----- ɑ•ɒ      
                                              
-ʍ -voi lbvel fr    ɕ ʑ Alv.Pal.Fric                                              
+ʍ -voi labvel fr   ɕ ʑ Alv.Pal.Fric                                              
 w voi labvel app   ɺ Voi. alv.lat.flap          Where symbols appear in pairs,   
 ɥ voi labpal app   ɧ simultaneous h & ʃ         the one to the right represents  
 ʜ -voi epigl fr    Affricates and double        a rounded vowel.                 
@@ -51,5 +49,3 @@ symbol with a descender, e.g. ŋ̊                 | Minor        | ‖ Major
 |⠀̩  syll n̩  |⠀̞  lower  e̞ β̞ (voi.lab.ap)  |    ȅ ~ ˩ +low   e᷈ ~ ˧˦˨ Rising-Fall.  
 |⠀̯  -syl e̽  |⠀̘  ATR    e̘                 |    ꜜ Downstep   ↗ Global rise         
 |⠀. rhot ə˞ |⠀̙  RTR    e̙                 |    ꜛ Upstep     ↘ Global Fall         
-
----------x---------x---------x---------X---------x---------x---------x------->80
